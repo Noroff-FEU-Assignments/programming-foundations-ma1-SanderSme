@@ -2,6 +2,7 @@ var firstVar;
 var name = "Sander";
 var age = 27;
 var division = 20 / 5;
+console.log(division);
 
 var animal = "frog";
 console.log(typeof animal);
